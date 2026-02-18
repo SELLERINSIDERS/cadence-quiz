@@ -30,3 +30,9 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# local deploy scripts (contain credentials)
+vercel-deploy.js
+vercel-deploy2.js
+find-vercel.js
+setup-and-deploy.sh
